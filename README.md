@@ -5,6 +5,4 @@ Real-time object detection using YOLOv3 pretrained model with OpenCV and Deep Le
 # Pretrained yolo v3 object detection model
 Data set name - coco dataset
 
-<p align="center">
-  <img src="images/yolo_banner.png" width="100%">
-</p>
+![Banner](./images/yolo_banner.png)
